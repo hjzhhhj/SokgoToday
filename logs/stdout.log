@@ -1,0 +1,65 @@
+--- 속초고 급식 스토리 봇 실행 시작 ---
+오늘 날짜: 2025년 06월 21일
+급식 정보 가져오는 중...
+[20250621] 급식 정보가 없습니다.
+인스타그램 로그인 중...
+기존 세션 로드 및 로그인 성공.
+[건너뜀] 조식 급식 정보가 없습니다.
+[건너뜀] 중식 급식 정보가 없습니다.
+[건너뜀] 석식 급식 정보가 없습니다.
+--- 속초고 급식 스토리 봇 실행 완료 ---
+--- 속초고 급식 스토리 봇 실행 시작 ---
+오늘 날짜: 2025년 06월 22일
+급식 정보 가져오는 중...
+[오류] NEIS API 요청 실패: HTTPSConnectionPool(host='open.neis.go.kr', port=443): Max retries exceeded with url: /hub/mealServiceDietInfo?KEY=bea2b7358e3945d6a13530831ea0fa23&Type=json&ATPT_OFCDC_SC_CODE=K10&SD_SCHUL_CODE=7801152&MLSV_YMD=20250622 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1075c9fd0>: Failed to resolve 'open.neis.go.kr' ([Errno 8] nodename nor servname provided, or not known)"))
+인스타그램 로그인 중...
+기존 세션 로드 및 로그인 성공.
+'조식' 급식 이미지 생성 중...
+'조식' 이미지 저장 완료: /Users/heejin/CodeSpace/Sokgo_GeubsikBot/outputs/sokcho_meal_조식.jpg
+[업로드 중] 속초고 조식 🍽️ (파일: /Users/heejin/CodeSpace/Sokgo_GeubsikBot/outputs/sokcho_meal_조식.jpg)
+[오류] 스토리 업로드 실패: HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /rupload_igphoto/1750519014725_0_8322348007 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10762e850>: Failed to resolve 'i.instagram.com' ([Errno 8] nodename nor servname provided, or not known)"))
+'중식' 급식 이미지 생성 중...
+'중식' 이미지 저장 완료: /Users/heejin/CodeSpace/Sokgo_GeubsikBot/outputs/sokcho_meal_중식.jpg
+[업로드 중] 속초고 중식 🍽️ (파일: /Users/heejin/CodeSpace/Sokgo_GeubsikBot/outputs/sokcho_meal_중식.jpg)
+[오류] 스토리 업로드 실패: HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /rupload_igphoto/1750520516787_0_2886473482 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10762ead0>: Failed to resolve 'i.instagram.com' ([Errno 8] nodename nor servname provided, or not known)"))
+'석식' 급식 이미지 생성 중...
+'석식' 이미지 저장 완료: /Users/heejin/CodeSpace/Sokgo_GeubsikBot/outputs/sokcho_meal_석식.jpg
+[업로드 중] 속초고 석식 🍽️ (파일: /Users/heejin/CodeSpace/Sokgo_GeubsikBot/outputs/sokcho_meal_석식.jpg)
+[오류] 스토리 업로드 실패: HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /rupload_igphoto/1750522387539_0_9845631827 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10762e210>: Failed to resolve 'i.instagram.com' ([Errno 8] nodename nor servname provided, or not known)"))
+--- 속초고 급식 스토리 봇 실행 완료 ---
+--- 속초고 급식 스토리 봇 실행 시작 ---
+오늘 날짜: 2025년 06월 23일
+급식 정보 가져오는 중...
+인스타그램 로그인 중...
+기존 세션 로드 및 로그인 성공.
+[건너뜀] 조식 급식 정보가 없습니다.
+'중식' 급식 이미지 생성 중...
+'중식' 이미지 저장 완료: /Users/heejin/CodeSpace/Sokgo_GeubsikBot/outputs/sokcho_meal_중식.jpg
+[업로드 중] 속초고 중식 🍽️ (파일: /Users/heejin/CodeSpace/Sokgo_GeubsikBot/outputs/sokcho_meal_중식.jpg)
+[업로드 완료] 속초고 중식 🍽️
+[건너뜀] 석식 급식 정보가 없습니다.
+--- 속초고 급식 스토리 봇 실행 완료 ---
+--- 속초고 급식 스토리 봇 실행 시작 ---
+오늘 날짜: 2025년 06월 24일
+급식 정보 가져오는 중...
+인스타그램 로그인 중...
+기존 세션 로드 및 로그인 성공.
+[건너뜀] 조식 급식 정보가 없습니다.
+'중식' 급식 이미지 생성 중...
+'중식' 이미지 저장 완료: /Users/heejin/CodeSpace/Sokgo_GeubsikBot/outputs/sokcho_meal_중식.jpg
+[업로드 중] 속초고 중식 🍽️ (파일: /Users/heejin/CodeSpace/Sokgo_GeubsikBot/outputs/sokcho_meal_중식.jpg)
+[업로드 완료] 속초고 중식 🍽️
+[건너뜀] 석식 급식 정보가 없습니다.
+--- 속초고 급식 스토리 봇 실행 완료 ---
+--- 속초고 급식 스토리 봇 실행 시작 ---
+오늘 날짜: 2025년 06월 25일
+급식 정보 가져오는 중...
+인스타그램 로그인 중...
+기존 세션 로드 및 로그인 성공.
+[건너뜀] 조식 급식 정보가 없습니다.
+'중식' 급식 이미지 생성 중...
+'중식' 이미지 저장 완료: /Users/heejin/CodeSpace/Sokgo_GeubsikBot/outputs/sokcho_meal_중식.jpg
+[업로드 중] 속초고 중식 🍽️ (파일: /Users/heejin/CodeSpace/Sokgo_GeubsikBot/outputs/sokcho_meal_중식.jpg)
+[업로드 완료] 속초고 중식 🍽️
+[건너뜀] 석식 급식 정보가 없습니다.
+--- 속초고 급식 스토리 봇 실행 완료 ---
